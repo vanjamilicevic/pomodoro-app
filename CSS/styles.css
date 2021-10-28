@@ -202,7 +202,7 @@
   height: 35px;
   position: relative;
   margin: auto;
-  margin-top: -165px;
+  margin-top: -220px;
   z-index: 1
 }
 
@@ -595,7 +595,7 @@ hr {
 
   .command-wrapper {
 
-    margin-top: -140px;
+    margin-top: -190px;
   }
 
 }
@@ -752,7 +752,7 @@ hr {
 
   .command-wrapper {
 
-    margin-top: -120px;
+    margin-top: -170px;
   }
 
   .counter {
@@ -786,7 +786,7 @@ hr {
 
   .command-wrapper {
 
-    margin-top: -120px;
+    margin-top: -160px;
   }
 
   .counter {
@@ -797,11 +797,6 @@ hr {
   .element-style {
 
     stroke-width: 0px;
-  }
-
-  .command-wrapper {
-
-    margin-top: -105px;
   }
 
 }
